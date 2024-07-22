@@ -23,6 +23,11 @@ public class SampleTest {
 		System.out.println("product deleted");
 	}
 	
+	public void editProduct()
+	{
+		System.out.println("product edited");
+	}
+	
 	//Bye
 	//thank you
 }
