@@ -23,10 +23,13 @@ public class SampleTest {
 		System.out.println("product deleted");
 	}
 	
-	public void createInvoice()
+
+	public void editProduct()
 	{
-		System.out.println("Invoice created");
+		System.out.println("product edited");
 	}
+	
+
 	//Bye
 	//thank you
 }
