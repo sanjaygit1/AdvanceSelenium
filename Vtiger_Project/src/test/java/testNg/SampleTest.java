@@ -30,6 +30,11 @@ public class SampleTest {
 	}
 	
 
+	public void createInvoice()
+	{
+		System.out.println("invoice is created");
+	}
+	
 	//Bye
 	//thank you
 }
