@@ -17,6 +17,8 @@ public class SoftAssertEx {
 		System.out.println("Step4");
 		soft.assertAll();
 		
+
 		//Thank you
-	}
+
+			}
 }

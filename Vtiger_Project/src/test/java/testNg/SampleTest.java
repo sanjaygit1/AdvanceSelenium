@@ -29,6 +29,12 @@ public class SampleTest {
 		System.out.println("product edited");
 	}
 	
+	public void createInvoice()
+	{
+		System.out.println("invoice is created");
+	}
+	
+
 	//Bye
 	//thank you
 }
